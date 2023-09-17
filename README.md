@@ -1,1 +1,3 @@
 # Profile-Management-System
+
+The Java-based Personal Profile Management System enables users to create and display personal profiles. It includes features for data encryption, user authentication, and validation. Users can input attributes like name, contact details, and sensitive data such as Social Security and bank account numbers. The application offers search, filtering, and error handling capabilities, along with strict privacy and compliance measures. It aims to provide a user-friendly interface while adhering to data security and privacy standards. This project will enhance personal information management and safeguard user data.
